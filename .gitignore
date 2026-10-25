@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+*.app/
+*.zip
+*.dmg
+*.log
+*.cosessiondb*
+*.cocatalog*/
+__pycache__/
+build/
+work/
+Compatibility-Report.json
